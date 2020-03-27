@@ -1,0 +1,31 @@
+body{
+	background-image: url(arrow.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+p{
+	font-family: georgia;
+	color: white;
+	font-size: 30px;
+	background-color: rgba(0,0,0,0.5);
+}
+h1{
+	font-family: arial;
+	font-variant: small-caps;
+	background-color: rgba(0,0,0,0.5);
+	color: white
+
+}
+img{
+	width: 200px;
+	border-radius: 200px
+
+}
+li{
+	background-color: rgba(0,0,0,0.5);
+	font-size: 30px;
+	color: white;
+
+}
